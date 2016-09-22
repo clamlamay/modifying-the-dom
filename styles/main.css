@@ -1,0 +1,8 @@
+li {
+	background: cadetblue;
+	list-style-type: square;
+}
+
+#target-for-text {
+	background: limegreen;
+}
